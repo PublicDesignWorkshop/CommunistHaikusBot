@@ -1,2 +1,2 @@
 # CommunistHaikusBot
-Communist Manifesto Haikus Twitter Bot
+A Twitter Bot that finds haikus in the Communist Manifesto
